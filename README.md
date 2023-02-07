@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharvaj547" alt="dharvaj547" /></a> </p>
 
-- 🔭 I’m currently working on **learning embedded systems in C++**
+- 🔭 I’m currently working on **learning about embedded systems**
 
 - 🌱 I’m currently learning **more about AI and machine learning by building a neural network to recognise handwriting in images**
 
-- 👨‍💻 All of my projects are available right here! 
+- 👨‍💻 A lot of my projects are available right here! 
 
 - 📫 How to reach me **dharvaj547@gmail.com**
 
