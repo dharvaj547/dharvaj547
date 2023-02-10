@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dharva</h1>
-<h3 align="center">A passionate Engineering Science student at the Univeristy of Auckland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharvaj547&label=Profile%20views&color=0e75b6&style=flat" alt="dharvaj547" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharvaj547" alt="dharvaj547" /></a> </p>
-
-- 🔭 I’m currently working on **learning more about embedded systems**
-
-- 🌱 I’m currently learning **more about AI and machine learning by building a neural network to recognise handwriting in images**
-
-- 👨‍💻 A lot of my projects are available right here! 
 
 - 📫 How to reach me **dharvaj547@gmail.com**
 
